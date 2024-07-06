@@ -1,7 +1,7 @@
 ## About me 😎
 
 
-🔭I am dedicated to improving my web development skills and actively seek opportunities to contribute to meaningful open-source projects. 
+🔭I am dedicated to improving my web development skills and actively seek opportunities to contribute to meaningful open-source projects.     
 🌱 Currently, I'm learning more about complex JavaScript frameworks like React and Node.js.   
 In addition, I am actively working on grasping backend technologies through an Udemy course. I'm also enrolled in the AmaliTech AWS re/Start program, to achieve AWS cloud certification.    
 👯 I’m looking to collaborate on innovative web development projects and community-driven tech initiatives.               
