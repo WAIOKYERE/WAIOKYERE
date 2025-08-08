@@ -6,7 +6,7 @@
 In addition, I am actively working on grasping backend technologies through an Udemy course.  
 👯 I’m looking to collaborate on innovative web development projects and community-driven tech initiatives.               
 💬 Ask me about web development trends, front-end frameworks, and building user-friendly web applications.        
-📫 How to reach me: waiokyere3@outlook.com ; okyerewai3@gmail.com or connect with me on https://www.linkedin.com/in/samuel-okyere-0a344a251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6raWi9%2FrRoGWTzXp0B47Mw%3D%3D.    
+📫 How to reach me: waiokyere3@outlook.com ; okyerewai3@gmail.com or connect with me on https://www.linkedin.com/in/samuel-wai-okyere
 ⚡ Fun fact: I love cooking, partaking in community/social services, teaching maths, science, and English, and tearing down and rebuilding mobile and PC devices.
 
 <!--
